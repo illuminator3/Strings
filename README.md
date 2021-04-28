@@ -2,8 +2,6 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/illuminator3/Strings)](https://github.com/illuminator3/Strings/issues) [![GitHub forks](https://img.shields.io/github/forks/illuminator3/Strings)](https://github.com/illuminator3/Strings/network) [![GitHub stars](https://img.shields.io/github/stars/illuminator3/Strings)](https://github.com/illuminator3/Strings/stargazers) [![GitHub license](https://img.shields.io/github/license/illuminator3/Strings)](https://github.com/illuminator3/Strings/blob/master/LICENSE) ![dependencies](https://img.shields.io/badge/dependencies-none-orange) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Filluminator3%2FStrings) [![](https://jitpack.io/v/illuminator3/Strings.svg)](https://jitpack.io/#illuminator3/Strings)
 
-This is just a fun project of mine inspired by [this codegolf](https://codegolf.stackexchange.com/questions/28786/write-a-program-that-makes-2-2-5/28818).
-
 ## Building
 
 Building the project is really easy. First you'll have to clone the repository: ``git clone https://github.com/illuminator3/Strings`` after that's done building the project can be done by running ``gradle build ``.
